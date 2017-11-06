@@ -5,3 +5,5 @@ https://jsbin.com/xigaxix/edit?html,js --> Increment, decrement counter example 
 https://jsbin.com/tuwovab/edit?html,js,console,output --> Spread, concat, slice
 https://jsbin.com/nosuye/78/edit?html,js,console,output -> Reducer composition
 https://jsbin.com/denaniv/edit?html,js,console -> combineReducers
+
+https://jsbin.com/zagusiw/88/edit?js,console,output   ->   Add todo, toggle todo, filter todo
